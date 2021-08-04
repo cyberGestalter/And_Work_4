@@ -1,0 +1,2 @@
+com/example/and_work_4/R.java
+ com.example.and_work_4.R

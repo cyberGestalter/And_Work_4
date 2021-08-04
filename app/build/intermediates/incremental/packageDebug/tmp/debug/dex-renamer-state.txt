@@ -1,0 +1,4 @@
+#Wed Aug 04 10:48:01 MSK 2021
+base.0=/home/master21/Рабочий стол/Borya_12_08_2019/комп устройство/Intellij Idea/My_projects/AndroidProjects/Andersen/And_Work_4/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

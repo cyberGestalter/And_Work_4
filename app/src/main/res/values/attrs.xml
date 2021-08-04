@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogWatchView">
+        <attr name="secondArrowColor" format="color" />
+        <attr name="minuteArrowColor" format="color" />
+        <attr name="hourArrowColor" format="color" />
+        <attr name="clockColor" format="color" />
+
+        <attr name="secondArrowStroke" format="dimension" />
+        <attr name="minuteArrowStroke" format="dimension" />
+        <attr name="hourArrowStroke" format="dimension" />
+        <attr name="clockStroke" format="dimension" />
+
+    </declare-styleable>
+</resources>
